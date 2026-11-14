@@ -1,0 +1,7 @@
+{
+  "name": "@elnemer70/cli",
+  "version": "1.0.0",
+  "description": "Unified CLI for the ElNemer 6,400+ Tool Ecosystem",
+  "main": "index.js",
+  "license": "MIT"
+}
